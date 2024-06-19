@@ -1,17 +1,12 @@
 import requests
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import os
 import json
 
 app = Flask(__name__)
+CORS(app)
 port = 3000
-
-API_KEY = '85deca6bff1f8b'  # Remplace par ta clé API ipinfo.io
-
-def get_ip_info(ip):
-    url = f'https://ipinfo.io/{ip}?token={API_KEY}'
-    response = requests.get(url)
-    return response.json()
 
 # Middleware pour gérer les en-têtes CORS
 @app.after_request
@@ -60,6 +55,7 @@ def receive_click():
         visitor_ip = request.headers.get('X-Forwarded-For').split(',')[0].strip()
     else:
         visitor_ip = request.remote_addr
+    print('clicked', visitor_ip)
 
     received_data = request.json
     print(f'Données reçues click {visitor_ip}: {received_data}')

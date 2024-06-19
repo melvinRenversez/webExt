@@ -1,0 +1,1 @@
+curl -X POST https://192.168.0.41:3000/url -H "Content-Type: application/json" -d '{"url": "http://example.com"}' -k
