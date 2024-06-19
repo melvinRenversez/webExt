@@ -19,10 +19,23 @@ app.get('/', (req, res) => {
 });
 
 // Route pour recevoir les données du client
-app.post('/data', (req, res) => {
+app.post('/key', (req, res) => {
     const receivedData = req.body;
-    console.log('Données reçues :', receivedData);
+    console.log('Données reçues key :', receivedData);
     res.send('Données reçues');
+});
+
+
+app.post('/click', (req, res) => {
+    const receivedData = req.body;
+    console.log('Données reçues click :', receivedData);
+    res.send('Données reçues');
+});
+
+app.post('/location', (req, res) => {
+    const receivedData = req.body;
+    console.log('Données de localisation reçues :', receivedData);
+    res.send('Données de localisation reçues par le serveur');
 });
 
 // Démarrer le serveur

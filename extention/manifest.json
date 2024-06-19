@@ -5,6 +5,7 @@
     "description": "Affiche une alerte sur toutes les pages web.",
     "permissions": [
       "activeTab",
+      "geolocation",
       "http://localhost:3000/*",
       "<all_urls>"
     ],
