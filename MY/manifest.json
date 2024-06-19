@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Mon Extension d'Alerte",
+  "version": "1.0",
+  "description": "Affiche une alerte sur toutes les pages web.",
+  "permissions": [
+      "activeTab",
+      "scripting",
+      "storage"
+  ],
+  "host_permissions": [
+      "<all_urls>"
+  ],
+  "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+          "16": "icon16.png"
+      }
+  },
+  "content_scripts": [
+      {
+          "matches": ["<all_urls>"],
+          "js": ["content.js"]
+      }
+  ]
+}
