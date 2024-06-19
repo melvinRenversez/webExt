@@ -1,0 +1,18 @@
+{
+    "url": "https://chatgpt.com/"
+}
+{
+    "url": "https://chatgpt.com/",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "line-clamp-3",
+            "text-balance",
+            "text-gray-600",
+            "dark:text-gray-500",
+            "break-word"
+        ]
+    },
+    "time": "2024-06-19T22:48:10.485Z"
+}

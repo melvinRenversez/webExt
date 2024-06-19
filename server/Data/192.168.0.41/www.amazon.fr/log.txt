@@ -1,0 +1,27 @@
+{
+    "url": "https://www.amazon.fr/?tag=admarketpla00-21&ref=pd_sl_fc327f1fe5da5ad0771d6d451a863a9b283fd763bb5006283d7ba2ad&mfadid=adm"
+}
+{
+    "url": "https://www.amazon.fr/?tag=admarketpla00-21&ref=pd_sl_fc327f1fe5da5ad0771d6d451a863a9b283fd763bb5006283d7ba2ad&mfadid=adm",
+    "target": {
+        "tagName": "INPUT",
+        "id": "sp-cc-accept",
+        "classList": [
+            "a-button-input",
+            "celwidget"
+        ]
+    },
+    "time": "2024-06-19T22:39:26.352Z"
+}
+{
+    "url": "https://www.amazon.fr/?tag=admarketpla00-21&ref=pd_sl_fc327f1fe5da5ad0771d6d451a863a9b283fd763bb5006283d7ba2ad&mfadid=adm",
+    "target": {
+        "tagName": "A",
+        "id": "",
+        "classList": []
+    },
+    "time": "2024-06-19T22:41:34.367Z"
+}
+{
+    "url": "https://www.amazon.fr/dp/B08C1KN5J2/ref=ods_gw_GW_FR_FR_SMP_SHP_MWAC1BAU_MWAC1_SH_MAX/?_encoding=UTF8&pd_rd_w=MEQyI&content-id=amzn1.sym.dadf06f1-6c0a-43a0-b2eb-38c6af71babc&pf_rd_p=dadf06f1-6c0a-43a0-b2eb-38c6af71babc&pf_rd_r=VVRTNWTMXQP8TH2A3153&pd_rd_wg=VbJ8f&pd_rd_r=73152f4f-7653-43d8-955a-17ca2432ef30&ref_=pd_hp_d_hero_unk"
+}

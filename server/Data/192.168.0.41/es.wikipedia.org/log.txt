@@ -117,3 +117,33 @@
     },
     "time": "2024-06-19T20:31:58.932Z"
 }
+{
+    "url": "https://es.wikipedia.org/wiki/Bolivia",
+    "key": "Tab",
+    "time": "2024-06-19T20:37:02.657Z"
+}
+{
+    "url": "https://es.wikipedia.org/wiki/Bolivia",
+    "key": "Alt",
+    "time": "2024-06-19T20:37:02.689Z"
+}
+{
+    "url": "https://es.wikipedia.org/wiki/Bolivia",
+    "key": "Meta",
+    "time": "2024-06-19T20:37:03.696Z"
+}
+{
+    "url": "https://es.wikipedia.org/wiki/Bolivia",
+    "key": "Alt",
+    "time": "2024-06-19T21:04:01.701Z"
+}
+{
+    "url": "https://es.wikipedia.org/wiki/Bolivia",
+    "key": "Alt",
+    "time": "2024-06-19T21:04:04.559Z"
+}
+{
+    "url": "https://es.wikipedia.org/wiki/Bolivia",
+    "key": "Alt",
+    "time": "2024-06-19T21:20:02.493Z"
+}
