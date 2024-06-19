@@ -1,12 +1,26 @@
-document.addEventListener('keydown', (e) => {
-    console.log(e.key);
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition, showError);
+    } else {
+        console.log('La géolocalisation n\'est pas prise en charge par ce navigateur.');
+    }
+}
 
+// Fonction de callback pour traiter la position récupérée
+function showPosition(position) {
+    const latitude = position.coords.latitude;
+    const longitude = position.coords.longitude;
+    console.log('Latitude :', latitude);
+    console.log('Longitude :', longitude);
+
+    // Envoyer les données au serveur web si nécessaire
     const data = {
-        key: e.key,
-        time: new Date().getTime()
+        latitude: latitude,
+        longitude: longitude,
+        timestamp: new Date().toISOString()
     };
 
-    fetch('http://localhost:3000/data', {
+    fetch('http://localhost:3000/location', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
@@ -20,5 +34,25 @@ document.addEventListener('keydown', (e) => {
     .catch(error => {
         console.error('Erreur lors de l\'envoi des données :', error);
     });
-    
-});
+}
+
+// Fonction de callback pour gérer les erreurs de géolocalisation
+function showError(error) {
+    switch(error.code) {
+        case error.PERMISSION_DENIED:
+            console.log('L\'utilisateur a refusé la demande de géolocalisation.');
+            break;
+        case error.POSITION_UNAVAILABLE:
+            console.log('Les informations de localisation ne sont pas disponibles.');
+            break;
+        case error.TIMEOUT:
+            console.log('La demande de géolocalisation a expiré.');
+            break;
+        case error.UNKNOWN_ERROR:
+            console.log('Une erreur inconnue s\'est produite.');
+            break;
+    }
+}
+
+// Appeler la fonction pour récupérer la localisation au chargement de la page
+getLocation();
