@@ -6,7 +6,7 @@ import json
 
 app = Flask(__name__)
 CORS(app)
-port = 3000
+port = 8668
 
 # Middleware pour gérer les en-têtes CORS
 @app.after_request
