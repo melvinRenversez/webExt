@@ -25,3 +25,241 @@
 {
     "url": "https://www.amazon.fr/dp/B08C1KN5J2/ref=ods_gw_GW_FR_FR_SMP_SHP_MWAC1BAU_MWAC1_SH_MAX/?_encoding=UTF8&pd_rd_w=MEQyI&content-id=amzn1.sym.dadf06f1-6c0a-43a0-b2eb-38c6af71babc&pf_rd_p=dadf06f1-6c0a-43a0-b2eb-38c6af71babc&pf_rd_r=VVRTNWTMXQP8TH2A3153&pd_rd_wg=VbJ8f&pd_rd_r=73152f4f-7653-43d8-955a-17ca2432ef30&ref_=pd_hp_d_hero_unk"
 }
+{
+    "url": "https://www.amazon.fr/"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "a-section",
+            "a-spacing-none",
+            "gw-col",
+            "gw-fixed-col",
+            "gw-card-layout"
+        ]
+    },
+    "time": "2024-06-20T09:47:51.693Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "a-section",
+            "a-spacing-none",
+            "gw-col",
+            "gw-fixed-col",
+            "gw-card-layout"
+        ]
+    },
+    "time": "2024-06-20T09:47:52.083Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "a-section",
+            "a-spacing-none",
+            "gw-col",
+            "gw-fixed-col",
+            "gw-card-layout"
+        ]
+    },
+    "time": "2024-06-20T09:47:52.468Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "a-section",
+            "a-spacing-none",
+            "gw-col",
+            "gw-fixed-col",
+            "gw-card-layout"
+        ]
+    },
+    "time": "2024-06-20T09:47:52.636Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "a-section",
+            "a-spacing-none",
+            "gw-col",
+            "gw-fixed-col",
+            "gw-card-layout"
+        ]
+    },
+    "time": "2024-06-20T09:47:52.788Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "a-section",
+            "a-spacing-none",
+            "gw-col",
+            "gw-fixed-col",
+            "gw-card-layout"
+        ]
+    },
+    "time": "2024-06-20T09:47:52.948Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "a-section",
+            "a-spacing-none",
+            "gw-col",
+            "gw-fixed-col",
+            "gw-card-layout"
+        ]
+    },
+    "time": "2024-06-20T09:47:53.132Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:53.866Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:54.017Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:54.143Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:54.277Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:54.425Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:54.865Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:54.997Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:55.128Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:55.266Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:55.393Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:55.536Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:55.677Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:55.844Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:56.049Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:57.146Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:57.334Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:57.540Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "d",
+    "time": "2024-06-20T09:47:57.765Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "q",
+    "time": "2024-06-20T09:47:57.911Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "d",
+    "time": "2024-06-20T09:47:58.175Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:58.235Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "q",
+    "time": "2024-06-20T09:47:58.344Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "d",
+    "time": "2024-06-20T09:47:58.401Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "v",
+    "time": "2024-06-20T09:47:58.663Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "c",
+    "time": "2024-06-20T09:47:58.692Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "z",
+    "time": "2024-06-20T09:47:58.940Z"
+}
