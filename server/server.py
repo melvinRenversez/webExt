@@ -112,4 +112,3 @@ if __name__ == '__main__':
     cert_path = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'apache-certificate.crt')
     key_path = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'apache.key')
     app.run(host='192.168.0.41', port=port, ssl_context=(cert_path, key_path))
-

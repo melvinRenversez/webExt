@@ -18,3 +18,33 @@
     },
     "time": "2024-06-19T22:54:09.832Z"
 }
+{
+    "url": "https://fr.search.yahoo.com/search?fr=mcafee&type=E210FR91082G0&p=wikip%C3%A9dia"
+}
+{
+    "url": "https://fr.search.yahoo.com/search?fr=mcafee&type=E210FR91082G0&p=wikip%C3%A9dia",
+    "key": "Meta",
+    "time": "2024-06-20T09:06:38.239Z"
+}
+{
+    "url": "https://fr.search.yahoo.com/search?fr=mcafee&type=E210FR91082G0&p=wikip%C3%A9dia",
+    "key": "Control",
+    "time": "2024-06-20T09:06:38.251Z"
+}
+{
+    "url": "https://fr.search.yahoo.com/search?fr=mcafee&type=E210FR91082G0&p=wikip%C3%A9dia",
+    "target": {
+        "tagName": "A",
+        "id": "",
+        "classList": [
+            "d-ib",
+            "fz-20",
+            "lh-26",
+            "td-hu",
+            "tc",
+            "va-bot",
+            "mxw-100p"
+        ]
+    },
+    "time": "2024-06-20T09:07:03.523Z"
+}
