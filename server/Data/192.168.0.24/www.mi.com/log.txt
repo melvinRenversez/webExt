@@ -1,0 +1,156 @@
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:09.642Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:09.798Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:10.670Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:11.949Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:23.997Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:45.057Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:45.194Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:45.327Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:45.456Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:45.583Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:45.706Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:45.840Z"
+}
+{
+    "url": "https://www.mi.com/fr/",
+    "target": {
+        "tagName": "NAV",
+        "id": "",
+        "classList": [
+            "site-container",
+            "site-header__navigation"
+        ]
+    },
+    "time": "2024-06-20T09:25:45.958Z"
+}
