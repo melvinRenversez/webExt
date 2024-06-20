@@ -1,0 +1,17 @@
+{
+    "url": "https://fr.search.yahoo.com/search?fr=mcafee&type=E210FR91082G0&p=samsung"
+}
+{
+    "url": "https://fr.search.yahoo.com/search?fr=mcafee&type=E210FR91082G0&p=samsung",
+    "target": {
+        "tagName": "SPAN",
+        "id": "",
+        "classList": [
+            "fz-20",
+            "lh-26",
+            "d-b",
+            "tc"
+        ]
+    },
+    "time": "2024-06-20T09:26:43.424Z"
+}
