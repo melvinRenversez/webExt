@@ -263,3 +263,11 @@
     "key": "z",
     "time": "2024-06-20T09:47:58.940Z"
 }
+{
+    "url": "https://www.amazon.fr/"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "Meta",
+    "time": "2024-06-21T14:37:18.962Z"
+}

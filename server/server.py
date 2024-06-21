@@ -3,10 +3,15 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import os
 import json
+import subprocess
 
 app = Flask(__name__)
 CORS(app)
 port = 9000
+ip = subprocess.run(['ipconfig'], stdout=subprocess.PIPE, text=True)
+ip = [line for line in ip.stdout.split('\n') if 'IPv4' in line]
+ip = [line.split(':')[1].strip() for line in ip]
+ip = ip[0]
 
 # Middleware pour gérer les en-têtes CORS
 @app.after_request
@@ -112,4 +117,4 @@ def dossier(ip, data):
 if __name__ == '__main__':
     cert_path = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'apache-certificate.crt')
     key_path = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'apache.key')
-    app.run(host='192.168.0.41', port=port, ssl_context=(cert_path, key_path))
+    app.run(host=ip, port=port, ssl_context=(cert_path, key_path))
