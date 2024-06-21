@@ -1,9 +1,0 @@
-{
-    "url": "https://www.wikipedia.org/",
-    "target": {
-        "tagName": "STRONG",
-        "id": "",
-        "classList": []
-    },
-    "time": 1718829230638
-}

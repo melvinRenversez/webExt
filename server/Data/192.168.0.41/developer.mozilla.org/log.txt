@@ -1,9 +1,0 @@
-{
-    "url": "https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date"
-}
-{
-    "url": "https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date"
-}
-{
-    "url": "https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date"
-}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.sujetdebac.fr/annales/serie-sti2d/"
+}
+{
+    "url": "https://www.sujetdebac.fr/annales/serie-sti2d/",
+    "target": {
+        "tagName": "DIV",
+        "id": "google_ads_iframe_/1006699/SDB_matiere_mobile-milieu_300x250_0__container__",
+        "classList": []
+    },
+    "time": "2024-06-21T15:45:16.887Z"
+}

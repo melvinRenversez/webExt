@@ -1,0 +1,190 @@
+{
+    "url": "https://www.amazon.fr/"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "Alt",
+    "time": "2024-06-21T15:18:48.638Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "target": {
+        "tagName": "INPUT",
+        "id": "twotabsearchtextbox",
+        "classList": [
+            "nav-input",
+            "nav-progressive-attribute"
+        ]
+    },
+    "time": "2024-06-21T15:18:55.196Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "a",
+    "time": "2024-06-21T15:18:56.243Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "b",
+    "time": "2024-06-21T15:18:56.450Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "c",
+    "time": "2024-06-21T15:18:56.569Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "Alt",
+    "time": "2024-06-21T15:18:57.054Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "target": {
+        "tagName": "INPUT",
+        "id": "twotabsearchtextbox",
+        "classList": [
+            "nav-input",
+            "nav-progressive-attribute"
+        ]
+    },
+    "time": "2024-06-21T15:19:53.484Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "Control",
+    "time": "2024-06-21T15:19:53.750Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "Backspace",
+    "time": "2024-06-21T15:19:54.230Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "Backspace",
+    "time": "2024-06-21T15:19:54.362Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "Backspace",
+    "time": "2024-06-21T15:19:54.478Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "key": "Escape",
+    "time": "2024-06-21T15:19:56.619Z"
+}
+{
+    "url": "https://www.amazon.fr/",
+    "target": {
+        "tagName": "SPAN",
+        "id": "nav-cart-count",
+        "classList": [
+            "nav-cart-count",
+            "nav-cart-0",
+            "nav-progressive-attribute",
+            "nav-progressive-content"
+        ]
+    },
+    "time": "2024-06-21T15:19:59.420Z"
+}
+{
+    "url": "https://www.amazon.fr/gp/cart/view.html?ref_=nav_cart"
+}
+{
+    "url": "https://www.amazon.fr/gp/cart/view.html?ref_=nav_cart",
+    "target": {
+        "tagName": "SPAN",
+        "id": "",
+        "classList": [
+            "a-size-base-plus"
+        ]
+    },
+    "time": "2024-06-21T15:20:03.532Z"
+}
+{
+    "url": "https://www.amazon.fr/ap/signin/ref=cart_empty_sign_in?openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fcart%3Fapp-nav-type%3Dnone%26dc%3Ddf&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=frflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"
+}
+{
+    "url": "https://www.amazon.fr/ap/signin/ref=cart_empty_sign_in?openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fcart%3Fapp-nav-type%3Dnone%26dc%3Ddf&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=frflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "target": {
+        "tagName": "INPUT",
+        "id": "ap_email",
+        "classList": [
+            "a-input-text",
+            "a-span12",
+            "auth-autofocus",
+            "auth-required-field"
+        ]
+    },
+    "time": "2024-06-21T15:20:05.153Z"
+}
+{
+    "url": "https://www.amazon.fr/ap/signin/ref=cart_empty_sign_in?openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fcart%3Fapp-nav-type%3Dnone%26dc%3Ddf&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=frflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "time": "2024-06-21T15:20:10.591Z"
+}
+{
+    "url": "https://www.amazon.fr/ap/signin/ref=cart_empty_sign_in?openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fcart%3Fapp-nav-type%3Dnone%26dc%3Ddf&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=frflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "time": "2024-06-21T15:20:10.595Z"
+}
+{
+    "url": "https://www.amazon.fr/ap/signin/ref=cart_empty_sign_in?openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fcart%3Fapp-nav-type%3Dnone%26dc%3Ddf&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=frflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "target": {
+        "tagName": "INPUT",
+        "id": "continue",
+        "classList": [
+            "a-button-input"
+        ]
+    },
+    "time": "2024-06-21T15:20:22.687Z"
+}
+{
+    "url": "https://www.amazon.fr/ap/signin"
+}
+{
+    "url": "https://www.amazon.fr/ap/signin",
+    "target": {
+        "tagName": "INPUT",
+        "id": "ap_password",
+        "classList": [
+            "a-input-text",
+            "a-span12",
+            "auth-autofocus",
+            "auth-required-field"
+        ]
+    },
+    "time": "2024-06-21T15:20:25.386Z"
+}
+{
+    "url": "https://www.amazon.fr/ap/signin",
+    "time": "2024-06-21T15:20:29.232Z"
+}
+{
+    "url": "https://www.amazon.fr/ap/signin",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "a-section"
+        ]
+    },
+    "time": "2024-06-21T15:20:29.959Z"
+}
+{
+    "url": "https://www.amazon.fr/ap/signin",
+    "target": {
+        "tagName": "INPUT",
+        "id": "signInSubmit",
+        "classList": [
+            "a-button-input"
+        ]
+    },
+    "time": "2024-06-21T15:20:30.536Z"
+}
+{
+    "url": "https://www.amazon.fr/ap/cvf/transactionapproval?arb=e987fcc2-c117-4512-86ec-0a2442ca772b&openid.assoc_handle=frflex&pageId=frflex&openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fap%2Fsignin%3Fie%3DUTF8%26clientContext%3D262-4203384-1495054%26arb%3D94714b88-896d-4a99-bb0a-aa4e44cd9303%26use_global_authentication%3Dfalse%26openid.return_to%3Dhttps%253A%252F%252Fwww.amazon.fr%252Fcart%253Fapp-nav-type%253Dnone%2526dc%253Ddf%26openid.identity%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26openid.assoc_handle%3Dfrflex%26openid.mode%3Dcheckid_setup%26ref_%3Dcart_empty_sign_in%26openid.claimed_id%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26pageId%3Dfrflex%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0"
+}
+{
+    "url": "https://www.amazon.fr/"
+}
