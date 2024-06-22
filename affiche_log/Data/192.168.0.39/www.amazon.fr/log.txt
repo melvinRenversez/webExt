@@ -1,0 +1,106 @@
+{
+    "url": "https://www.amazon.fr/gp/bestsellers/?ref_=nav_cs_bestsellers",
+    "target": {
+        "tagName": "DIV",
+        "id": "CardInstanceay1w6WxRsCtAzEpKGLfL-Q",
+        "classList": [
+            "_p13n-zg-banner-landing-page-header_style_zgLandingPageBanner__15GAl"
+        ]
+    },
+    "time": "2024-06-22T17:27:44.025Z"
+}
+{
+    "url": "https://www.amazon.fr/gp/bestsellers/?ref_=nav_cs_bestsellers",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "a-column",
+            "a-span4",
+            "a-span-last",
+            "a-text-right"
+        ]
+    },
+    "time": "2024-06-22T17:27:52.164Z"
+}
+{
+    "url": "https://www.amazon.fr/gp/bestsellers/?ref_=nav_cs_bestsellers",
+    "target": {
+        "tagName": "DIV",
+        "id": "CardInstanceay1w6WxRsCtAzEpKGLfL-Q",
+        "classList": [
+            "_p13n-zg-banner-landing-page-header_style_zgLandingPageBanner__15GAl"
+        ]
+    },
+    "time": "2024-06-22T17:28:09.807Z"
+}
+{
+    "url": "https://www.amazon.fr/gp/bestsellers/?ref_=nav_cs_bestsellers",
+    "target": {
+        "tagName": "DIV",
+        "id": "CardInstanceay1w6WxRsCtAzEpKGLfL-Q",
+        "classList": [
+            "_p13n-zg-banner-landing-page-header_style_zgLandingPageBanner__15GAl"
+        ]
+    },
+    "time": "2024-06-22T17:28:11.008Z"
+}
+{
+    "url": "https://www.amazon.fr/gp/bestsellers/?ref_=nav_cs_bestsellers",
+    "target": {
+        "tagName": "DIV",
+        "id": "CardInstanceay1w6WxRsCtAzEpKGLfL-Q",
+        "classList": [
+            "_p13n-zg-banner-landing-page-header_style_zgLandingPageBanner__15GAl"
+        ]
+    },
+    "time": "2024-06-22T17:28:11.615Z"
+}
+{
+    "url": "https://www.amazon.fr/gp/bestsellers/?ref_=nav_cs_bestsellers",
+    "target": {
+        "tagName": "DIV",
+        "id": "CardInstanceay1w6WxRsCtAzEpKGLfL-Q",
+        "classList": [
+            "_p13n-zg-banner-landing-page-header_style_zgLandingPageBanner__15GAl"
+        ]
+    },
+    "time": "2024-06-22T17:28:11.761Z"
+}
+{
+    "url": "https://www.amazon.fr/gp/bestsellers/?ref_=nav_cs_bestsellers",
+    "target": {
+        "tagName": "DIV",
+        "id": "CardInstanceay1w6WxRsCtAzEpKGLfL-Q",
+        "classList": [
+            "_p13n-zg-banner-landing-page-header_style_zgLandingPageBanner__15GAl"
+        ]
+    },
+    "time": "2024-06-22T17:28:11.907Z"
+}
+{
+    "url": "https://www.amazon.fr/gp/bestsellers/?ref_=nav_cs_bestsellers",
+    "target": {
+        "tagName": "DIV",
+        "id": "CardInstanceay1w6WxRsCtAzEpKGLfL-Q",
+        "classList": [
+            "_p13n-zg-banner-landing-page-header_style_zgLandingPageBanner__15GAl"
+        ]
+    },
+    "time": "2024-06-22T17:28:12.052Z"
+}
+{
+    "url": "https://www.amazon.fr/gp/bestsellers/?ref_=nav_cs_bestsellers",
+    "key": "Control",
+    "time": "2024-06-22T17:28:13.530Z"
+}
+{
+    "url": "https://www.amazon.fr/gp/bestsellers/?ref_=nav_cs_bestsellers",
+    "key": "Shift",
+    "time": "2024-06-22T17:28:13.608Z"
+}
+{
+    "url": "https://www.amazon.fr/gp/bestsellers/?ref_=nav_cs_bestsellers",
+    "key": "R",
+    "time": "2024-06-22T17:28:13.706Z"
+}

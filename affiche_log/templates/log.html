@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contenu du fichier</title>
+    <link rel="stylesheet" href="log.css">
+</head>
+<body>
+    <h1>Contenu du fichier</h1>
+    <pre>{{ file_content }}</pre>
+</body>
+</html>
+<style>
+    *{
+        background: #272727;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    h1{
+        height: 5%;
+    }
+    pre{
+        background: #000;
+        height: 90%;
+        width: 40%;
+        padding: 20px;
+        overflow-y: scroll;
+        color: #2fff00;
+    }
+</style>

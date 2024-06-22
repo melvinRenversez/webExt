@@ -1,0 +1,1774 @@
+{
+    "url": "https://chatgpt.com/"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "Control",
+    "time": "2024-06-21T15:25:09.261Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "v",
+    "time": "2024-06-21T15:25:09.393Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "Enter",
+    "time": "2024-06-21T15:25:09.692Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "Alt",
+    "time": "2024-06-21T15:25:18.849Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:25:24.127Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "CODE",
+        "id": "",
+        "classList": [
+            "!whitespace-pre",
+            "hljs",
+            "language-python"
+        ]
+    },
+    "time": "2024-06-21T15:25:34.614Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:25:34.814Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "c",
+    "time": "2024-06-21T15:25:35.268Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:25:35.518Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:25:41.840Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Tab",
+    "time": "2024-06-21T15:26:06.393Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:26:06.414Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:26:17.249Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:26:56.887Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "TEXTAREA",
+        "id": "prompt-textarea",
+        "classList": [
+            "m-0",
+            "resize-none",
+            "border-0",
+            "bg-transparent",
+            "px-0",
+            "text-token-text-primary",
+            "focus:ring-0",
+            "focus-visible:ring-0",
+            "max-h-[25dvh]",
+            "max-h-52"
+        ]
+    },
+    "time": "2024-06-21T15:27:15.524Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:27:15.533Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "v",
+    "time": "2024-06-21T15:27:15.685Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Enter",
+    "time": "2024-06-21T15:27:16.235Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:27:43.629Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:27:47.210Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "v",
+    "time": "2024-06-21T15:27:47.408Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Enter",
+    "time": "2024-06-21T15:27:47.525Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Enter",
+    "time": "2024-06-21T15:27:50.524Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:28:02.309Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:28:46.402Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "flex",
+            "w-full",
+            "flex-col",
+            "gap-1.5",
+            "rounded-[26px]",
+            "p-1.5",
+            "transition-colors",
+            "bg-[#f4f4f4]",
+            "dark:bg-token-main-surface-secondary"
+        ]
+    },
+    "time": "2024-06-21T15:29:00.017Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "TEXTAREA",
+        "id": "prompt-textarea",
+        "classList": [
+            "m-0",
+            "resize-none",
+            "border-0",
+            "bg-transparent",
+            "px-0",
+            "text-token-text-primary",
+            "focus:ring-0",
+            "focus-visible:ring-0",
+            "max-h-[25dvh]",
+            "max-h-52"
+        ]
+    },
+    "time": "2024-06-21T15:29:01.057Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:29:01.082Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "v",
+    "time": "2024-06-21T15:29:01.393Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Enter",
+    "time": "2024-06-21T15:29:02.022Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "overflow-y-auto",
+            "p-4"
+        ]
+    },
+    "time": "2024-06-21T15:29:26.130Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:29:26.427Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "c",
+    "time": "2024-06-21T15:29:26.614Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:29:26.888Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "TEXTAREA",
+        "id": "prompt-textarea",
+        "classList": [
+            "m-0",
+            "resize-none",
+            "border-0",
+            "bg-transparent",
+            "px-0",
+            "text-token-text-primary",
+            "focus:ring-0",
+            "focus-visible:ring-0",
+            "max-h-[25dvh]",
+            "max-h-52"
+        ]
+    },
+    "time": "2024-06-21T15:30:18.544Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:30:18.564Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "v",
+    "time": "2024-06-21T15:30:18.655Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Enter",
+    "time": "2024-06-21T15:30:19.083Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "e",
+    "time": "2024-06-21T15:30:31.234Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "b",
+    "time": "2024-06-21T15:30:31.426Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "n",
+    "time": "2024-06-21T15:30:31.434Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": " ",
+    "time": "2024-06-21T15:30:31.575Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "f",
+    "time": "2024-06-21T15:30:31.795Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "r",
+    "time": "2024-06-21T15:30:31.867Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Backspace",
+    "time": "2024-06-21T15:30:32.114Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Backspace",
+    "time": "2024-06-21T15:30:32.218Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Backspace",
+    "time": "2024-06-21T15:30:32.426Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Backspace",
+    "time": "2024-06-21T15:30:32.716Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Backspace",
+    "time": "2024-06-21T15:30:32.884Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "n",
+    "time": "2024-06-21T15:30:33.284Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": " ",
+    "time": "2024-06-21T15:30:33.442Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "f",
+    "time": "2024-06-21T15:30:33.567Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "r",
+    "time": "2024-06-21T15:30:33.623Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "a",
+    "time": "2024-06-21T15:30:34.041Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "n",
+    "time": "2024-06-21T15:30:34.221Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "c",
+    "time": "2024-06-21T15:30:34.337Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "a",
+    "time": "2024-06-21T15:30:34.363Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "i",
+    "time": "2024-06-21T15:30:34.490Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "s",
+    "time": "2024-06-21T15:30:34.623Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "svg",
+        "id": "",
+        "classList": [
+            "icon-lg"
+        ]
+    },
+    "time": "2024-06-21T15:30:36.225Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "overflow-y-auto",
+            "p-4"
+        ]
+    },
+    "time": "2024-06-21T15:31:04.027Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:31:04.294Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "c",
+    "time": "2024-06-21T15:31:04.495Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:31:04.832Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:31:41.778Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "TEXTAREA",
+        "id": "prompt-textarea",
+        "classList": [
+            "m-0",
+            "resize-none",
+            "border-0",
+            "bg-transparent",
+            "px-0",
+            "text-token-text-primary",
+            "focus:ring-0",
+            "focus-visible:ring-0",
+            "max-h-[25dvh]",
+            "max-h-52"
+        ]
+    },
+    "time": "2024-06-21T15:31:41.826Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "v",
+    "time": "2024-06-21T15:31:41.859Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Enter",
+    "time": "2024-06-21T15:31:41.996Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "svg",
+        "id": "",
+        "classList": [
+            "icon-md"
+        ]
+    },
+    "time": "2024-06-21T15:32:06.524Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:32:27.090Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:32:35.808Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "v",
+    "time": "2024-06-21T15:32:35.974Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Enter",
+    "time": "2024-06-21T15:32:36.258Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:32:47.813Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:40:22.142Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "v",
+    "time": "2024-06-21T15:40:22.306Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Enter",
+    "time": "2024-06-21T15:40:22.569Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "overflow-y-auto",
+            "p-4"
+        ]
+    },
+    "time": "2024-06-21T15:40:38.686Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:40:38.990Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "c",
+    "time": "2024-06-21T15:40:39.381Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:40:39.810Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:40:42.665Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:41:13.366Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:41:18.727Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "overflow-y-auto",
+            "p-4"
+        ]
+    },
+    "time": "2024-06-21T15:42:30.839Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:42:31.038Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "c",
+    "time": "2024-06-21T15:42:31.459Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:42:31.747Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:43:06.774Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:43:19.925Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "TEXTAREA",
+        "id": "prompt-textarea",
+        "classList": [
+            "m-0",
+            "resize-none",
+            "border-0",
+            "bg-transparent",
+            "px-0",
+            "text-token-text-primary",
+            "focus:ring-0",
+            "focus-visible:ring-0",
+            "max-h-[25dvh]",
+            "max-h-52"
+        ]
+    },
+    "time": "2024-06-21T15:43:41.713Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:43:41.797Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "v",
+    "time": "2024-06-21T15:43:42.032Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Enter",
+    "time": "2024-06-21T15:43:42.224Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "overflow-y-auto",
+            "p-4"
+        ]
+    },
+    "time": "2024-06-21T15:44:03.267Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:44:03.526Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "c",
+    "time": "2024-06-21T15:44:03.760Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:44:04.312Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Control",
+    "time": "2024-06-21T15:45:23.708Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "TEXTAREA",
+        "id": "prompt-textarea",
+        "classList": [
+            "m-0",
+            "resize-none",
+            "border-0",
+            "bg-transparent",
+            "px-0",
+            "text-token-text-primary",
+            "focus:ring-0",
+            "focus-visible:ring-0",
+            "max-h-[25dvh]",
+            "max-h-52"
+        ]
+    },
+    "time": "2024-06-21T15:45:23.766Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "v",
+    "time": "2024-06-21T15:45:24.027Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Enter",
+    "time": "2024-06-21T15:45:24.461Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "target": {
+        "tagName": "TEXTAREA",
+        "id": "prompt-textarea",
+        "classList": [
+            "m-0",
+            "resize-none",
+            "border-0",
+            "bg-transparent",
+            "px-0",
+            "text-token-text-primary",
+            "focus:ring-0",
+            "focus-visible:ring-0",
+            "max-h-[25dvh]",
+            "max-h-52"
+        ]
+    },
+    "time": "2024-06-21T15:45:38.431Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "p",
+    "time": "2024-06-21T15:45:38.608Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "k",
+    "time": "2024-06-21T15:45:38.878Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": " ",
+    "time": "2024-06-21T15:45:38.997Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "i",
+    "time": "2024-06-21T15:45:39.141Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "i",
+    "time": "2024-06-21T15:45:39.223Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "l",
+    "time": "2024-06-21T15:45:39.244Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": " ",
+    "time": "2024-06-21T15:45:39.399Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "t",
+    "time": "2024-06-21T15:45:39.690Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "r",
+    "time": "2024-06-21T15:45:39.752Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "o",
+    "time": "2024-06-21T15:45:39.862Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "i",
+    "time": "2024-06-21T15:45:39.986Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Backspace",
+    "time": "2024-06-21T15:45:40.638Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "u",
+    "time": "2024-06-21T15:45:40.896Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "v",
+    "time": "2024-06-21T15:45:41.008Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "e",
+    "time": "2024-06-21T15:45:41.114Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": " ",
+    "time": "2024-06-21T15:45:41.184Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "p",
+    "time": "2024-06-21T15:45:41.362Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "a",
+    "time": "2024-06-21T15:45:41.378Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "s",
+    "time": "2024-06-21T15:45:41.503Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": " ",
+    "time": "2024-06-21T15:45:41.601Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "o",
+    "time": "2024-06-21T15:45:42.191Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Backspace",
+    "time": "2024-06-21T15:45:42.590Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "i",
+    "time": "2024-06-21T15:45:43.054Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "n",
+    "time": "2024-06-21T15:45:43.129Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "d",
+    "time": "2024-06-21T15:45:43.255Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "e",
+    "time": "2024-06-21T15:45:43.326Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "x",
+    "time": "2024-06-21T15:45:43.541Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Shift",
+    "time": "2024-06-21T15:45:43.778Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": ".",
+    "time": "2024-06-21T15:45:43.872Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "h",
+    "time": "2024-06-21T15:45:44.136Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "t",
+    "time": "2024-06-21T15:45:44.221Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "m",
+    "time": "2024-06-21T15:45:44.286Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "l",
+    "time": "2024-06-21T15:45:44.353Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Enter",
+    "time": "2024-06-21T15:45:44.829Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:45:59.001Z"
+}
+{
+    "url": "https://chatgpt.com/c/056b5cac-3a36-4f71-bf78-9b502ec92eaf",
+    "key": "Alt",
+    "time": "2024-06-21T15:46:08.308Z"
+}
+{
+    "url": "https://chatgpt.com/"
+}
+{
+    "url": "https://chatgpt.com/"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "e",
+    "time": "2024-06-21T16:18:39.973Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "n",
+    "time": "2024-06-21T16:18:40.113Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "f",
+    "time": "2024-06-21T16:18:40.322Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "r",
+    "time": "2024-06-21T16:18:40.396Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "Backspace",
+    "time": "2024-06-21T16:18:40.763Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "Backspace",
+    "time": "2024-06-21T16:18:40.923Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": " ",
+    "time": "2024-06-21T16:18:41.176Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "f",
+    "time": "2024-06-21T16:18:41.428Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "r",
+    "time": "2024-06-21T16:18:41.488Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "n",
+    "time": "2024-06-21T16:18:41.615Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "a",
+    "time": "2024-06-21T16:18:41.862Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "Backspace",
+    "time": "2024-06-21T16:18:42.285Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "Backspace",
+    "time": "2024-06-21T16:18:42.467Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "a",
+    "time": "2024-06-21T16:18:42.627Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "n",
+    "time": "2024-06-21T16:18:42.817Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "c",
+    "time": "2024-06-21T16:18:43.036Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "a",
+    "time": "2024-06-21T16:18:43.104Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "i",
+    "time": "2024-06-21T16:18:43.293Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "s",
+    "time": "2024-06-21T16:18:43.473Z"
+}
+{
+    "url": "https://chatgpt.com/",
+    "key": "Enter",
+    "time": "2024-06-21T16:18:43.743Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "j",
+    "time": "2024-06-21T16:18:45.789Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "s",
+    "time": "2024-06-21T16:18:45.870Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:18:45.977Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Enter",
+    "time": "2024-06-21T16:18:46.275Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "i",
+    "time": "2024-06-21T16:18:47.978Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "s",
+    "time": "2024-06-21T16:18:48.081Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:18:48.235Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:18:48.432Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "m",
+    "time": "2024-06-21T16:18:48.650Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "p",
+    "time": "2024-06-21T16:18:48.812Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "t",
+    "time": "2024-06-21T16:18:49.220Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "o",
+    "time": "2024-06-21T16:18:49.568Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Backspace",
+    "time": "2024-06-21T16:18:49.897Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "i",
+    "time": "2024-06-21T16:18:50.027Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Enter",
+    "time": "2024-06-21T16:18:50.338Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "c",
+    "time": "2024-06-21T16:18:53.890Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "o",
+    "time": "2024-06-21T16:18:53.997Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "m",
+    "time": "2024-06-21T16:18:54.190Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "m",
+    "time": "2024-06-21T16:18:54.346Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "m",
+    "time": "2024-06-21T16:18:54.543Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:18:54.688Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "n",
+    "time": "2024-06-21T16:18:54.785Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "t",
+    "time": "2024-06-21T16:18:54.873Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:18:54.958Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "v",
+    "time": "2024-06-21T16:18:55.240Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:18:55.313Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "r",
+    "time": "2024-06-21T16:18:55.414Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "i",
+    "time": "2024-06-21T16:18:55.631Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "f",
+    "time": "2024-06-21T16:18:55.784Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "i",
+    "time": "2024-06-21T16:18:55.914Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:18:56.041Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "r",
+    "time": "2024-06-21T16:18:56.137Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:18:56.228Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "s",
+    "time": "2024-06-21T16:18:56.487Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "u",
+    "time": "2024-06-21T16:18:56.613Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:18:56.770Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Backspace",
+    "time": "2024-06-21T16:18:57.320Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Backspace",
+    "time": "2024-06-21T16:18:57.481Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "i",
+    "time": "2024-06-21T16:18:58.428Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:18:58.581Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "i",
+    "time": "2024-06-21T16:18:58.711Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "n",
+    "time": "2024-06-21T16:18:58.824Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:18:58.901Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "u",
+    "time": "2024-06-21T16:18:59.114Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Backspace",
+    "time": "2024-06-21T16:18:59.539Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Backspace",
+    "time": "2024-06-21T16:18:59.830Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Backspace",
+    "time": "2024-06-21T16:19:00.003Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Backspace",
+    "time": "2024-06-21T16:19:00.212Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "u",
+    "time": "2024-06-21T16:19:00.586Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "n",
+    "time": "2024-06-21T16:19:00.692Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "i",
+    "time": "2024-06-21T16:19:00.960Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "n",
+    "time": "2024-06-21T16:19:01.092Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "p",
+    "time": "2024-06-21T16:19:01.272Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "u",
+    "time": "2024-06-21T16:19:01.457Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "t",
+    "time": "2024-06-21T16:19:01.588Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:19:01.683Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:19:01.847Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "t",
+    "time": "2024-06-21T16:19:02.209Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:19:02.335Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "p",
+    "time": "2024-06-21T16:19:02.428Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "a",
+    "time": "2024-06-21T16:19:02.597Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "s",
+    "time": "2024-06-21T16:19:02.694Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:19:02.733Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "v",
+    "time": "2024-06-21T16:19:02.924Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "i",
+    "time": "2024-06-21T16:19:03.011Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "d",
+    "time": "2024-06-21T16:19:03.120Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:19:03.176Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Enter",
+    "time": "2024-06-21T16:19:03.401Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Alt",
+    "time": "2024-06-21T16:19:25.292Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "overflow-y-auto",
+            "p-4"
+        ]
+    },
+    "time": "2024-06-21T16:19:40.392Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Alt",
+    "time": "2024-06-21T16:19:40.439Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Alt",
+    "time": "2024-06-21T16:19:44.964Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "target": {
+        "tagName": "TEXTAREA",
+        "id": "prompt-textarea",
+        "classList": [
+            "m-0",
+            "resize-none",
+            "border-0",
+            "bg-transparent",
+            "px-0",
+            "text-token-text-primary",
+            "focus:ring-0",
+            "focus-visible:ring-0",
+            "max-h-[25dvh]",
+            "max-h-52"
+        ]
+    },
+    "time": "2024-06-21T16:25:01.133Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "j",
+    "time": "2024-06-21T16:25:01.512Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "s",
+    "time": "2024-06-21T16:25:01.815Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:25:01.967Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "c",
+    "time": "2024-06-21T16:25:02.312Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "o",
+    "time": "2024-06-21T16:25:02.477Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "m",
+    "time": "2024-06-21T16:25:02.639Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "m",
+    "time": "2024-06-21T16:25:02.752Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:25:03.289Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "n",
+    "time": "2024-06-21T16:25:03.422Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "t",
+    "time": "2024-06-21T16:25:03.533Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:25:03.649Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:25:04.267Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "n",
+    "time": "2024-06-21T16:25:04.377Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "c",
+    "time": "2024-06-21T16:25:04.641Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "o",
+    "time": "2024-06-21T16:25:04.770Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "d",
+    "time": "2024-06-21T16:25:04.882Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:25:04.949Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:25:05.168Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "d",
+    "time": "2024-06-21T16:25:05.377Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:25:05.477Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "s",
+    "time": "2024-06-21T16:25:05.594Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:25:05.723Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "d",
+    "time": "2024-06-21T16:25:06.260Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "p",
+    "time": "2024-06-21T16:25:06.341Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "n",
+    "time": "2024-06-21T16:25:06.565Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "n",
+    "time": "2024-06-21T16:25:06.719Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Backspace",
+    "time": "2024-06-21T16:25:06.955Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Backspace",
+    "time": "2024-06-21T16:25:07.113Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Backspace",
+    "time": "2024-06-21T16:25:07.320Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "o",
+    "time": "2024-06-21T16:25:07.697Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "n",
+    "time": "2024-06-21T16:25:07.910Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "n",
+    "time": "2024-06-21T16:25:08.035Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:25:08.124Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "r",
+    "time": "2024-06-21T16:25:08.325Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:25:08.504Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "a",
+    "time": "2024-06-21T16:25:08.669Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "v",
+    "time": "2024-06-21T16:25:08.825Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "e",
+    "time": "2024-06-21T16:25:08.912Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "c",
+    "time": "2024-06-21T16:25:09.046Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": " ",
+    "time": "2024-06-21T16:25:09.215Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "s",
+    "time": "2024-06-21T16:25:09.443Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "h",
+    "time": "2024-06-21T16:25:11.781Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "a",
+    "time": "2024-06-21T16:25:11.939Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Enter",
+    "time": "2024-06-21T16:25:12.281Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "overflow-y-auto",
+            "p-4"
+        ]
+    },
+    "time": "2024-06-21T16:25:46.719Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Control",
+    "time": "2024-06-21T16:25:47.074Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "c",
+    "time": "2024-06-21T16:25:47.326Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Alt",
+    "time": "2024-06-21T16:25:47.741Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Meta",
+    "time": "2024-06-21T16:25:56.291Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "overflow-y-auto",
+            "p-4"
+        ]
+    },
+    "time": "2024-06-21T16:26:10.433Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Control",
+    "time": "2024-06-21T16:26:10.749Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "c",
+    "time": "2024-06-21T16:26:10.929Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Alt",
+    "time": "2024-06-21T16:26:11.260Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "target": {
+        "tagName": "SPAN",
+        "id": "",
+        "classList": [
+            "hljs-keyword"
+        ]
+    },
+    "time": "2024-06-21T16:27:15.501Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "target": {
+        "tagName": "TEXTAREA",
+        "id": "prompt-textarea",
+        "classList": [
+            "m-0",
+            "resize-none",
+            "border-0",
+            "bg-transparent",
+            "px-0",
+            "text-token-text-primary",
+            "focus:ring-0",
+            "focus-visible:ring-0",
+            "max-h-[25dvh]",
+            "max-h-52"
+        ]
+    },
+    "time": "2024-06-21T16:27:17.109Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Control",
+    "time": "2024-06-21T16:27:17.119Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "v",
+    "time": "2024-06-21T16:27:17.304Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Enter",
+    "time": "2024-06-21T16:27:17.568Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Alt",
+    "time": "2024-06-21T16:27:43.792Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Alt",
+    "time": "2024-06-21T16:28:02.273Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Alt",
+    "time": "2024-06-21T16:28:16.311Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Control",
+    "time": "2024-06-21T16:28:27.240Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": [
+            "flex",
+            "w-full",
+            "flex-col",
+            "gap-1.5",
+            "rounded-[26px]",
+            "p-1.5",
+            "transition-colors",
+            "bg-[#f4f4f4]",
+            "dark:bg-token-main-surface-secondary"
+        ]
+    },
+    "time": "2024-06-21T16:28:27.296Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "v",
+    "time": "2024-06-21T16:28:27.349Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "target": {
+        "tagName": "TEXTAREA",
+        "id": "prompt-textarea",
+        "classList": [
+            "m-0",
+            "resize-none",
+            "border-0",
+            "bg-transparent",
+            "px-0",
+            "text-token-text-primary",
+            "focus:ring-0",
+            "focus-visible:ring-0",
+            "max-h-[25dvh]",
+            "max-h-52"
+        ]
+    },
+    "time": "2024-06-21T16:28:28.789Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Control",
+    "time": "2024-06-21T16:28:28.862Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "v",
+    "time": "2024-06-21T16:28:29.052Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Enter",
+    "time": "2024-06-21T16:28:29.393Z"
+}
+{
+    "url": "https://chatgpt.com/c/af4efa06-26a1-417d-8913-6ca0f188e366",
+    "key": "Alt",
+    "time": "2024-06-21T16:28:37.604Z"
+}

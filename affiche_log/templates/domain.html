@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon site web Flask domain</title>
+</head>
+<body>
+    <h1>Bienvenue sur mon site Flask!</h1>
+    <p>Voici le contenu de mon dossier :</p>
+    <ul>
+        {% for file in files %}
+            <li><a href="{{url_for('log_detail', domain_name=domain_name, log_name=file)}}">{{ file }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
