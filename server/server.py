@@ -2,7 +2,6 @@ from flask import Flask, request, render_template
 from flask_cors import CORS
 import os
 import json
-import subprocess
 
 app = Flask(__name__)
 CORS(app)

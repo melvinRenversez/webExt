@@ -1,0 +1,45 @@
+{
+    "url": "https://waytolearnx.com/2019/09/verifier-si-un-champ-est-vide-en-javascript.html"
+}
+{
+    "url": "https://waytolearnx.com/2019/09/verifier-si-un-champ-est-vide-en-javascript.html",
+    "target": {
+        "tagName": "BUTTON",
+        "id": "ez-accept-all",
+        "classList": [
+            "ez-switch-view-btn",
+            "ez_twentytwentytwo_corners"
+        ]
+    },
+    "time": "2024-06-21T16:16:45.212Z"
+}
+{
+    "url": "https://waytolearnx.com/2019/09/verifier-si-un-champ-est-vide-en-javascript.html",
+    "target": {
+        "tagName": "A",
+        "id": "ez-accept-all-a",
+        "classList": []
+    },
+    "time": "2024-06-21T16:16:46.765Z"
+}
+{
+    "url": "https://waytolearnx.com/2019/09/verifier-si-un-champ-est-vide-en-javascript.html#google_vignette",
+    "target": {
+        "tagName": "HTML",
+        "id": "",
+        "classList": []
+    },
+    "time": "2024-06-21T16:16:49.975Z"
+}
+{
+    "url": "https://waytolearnx.com/2019/09/verifier-si-un-champ-est-vide-en-javascript.html?utm_content=cmp-true"
+}
+{
+    "url": "https://waytolearnx.com/2019/09/verifier-si-un-champ-est-vide-en-javascript.html?utm_content=cmp-true",
+    "target": {
+        "tagName": "DIV",
+        "id": "",
+        "classList": []
+    },
+    "time": "2024-06-21T16:17:04.584Z"
+}

@@ -1,0 +1,20 @@
+{
+    "url": "https://fr.search.yahoo.com/search?fr=mcafee&type=E210FR91082G0&p=js+verifier+si+un+champ+et+vide"
+}
+{
+    "url": "https://fr.search.yahoo.com/search?fr=mcafee&type=E210FR91082G0&p=js+verifier+si+un+champ+et+vide",
+    "target": {
+        "tagName": "A",
+        "id": "",
+        "classList": [
+            "d-ib",
+            "fz-20",
+            "lh-26",
+            "td-hu",
+            "tc",
+            "va-bot",
+            "mxw-100p"
+        ]
+    },
+    "time": "2024-06-21T16:16:39.872Z"
+}
