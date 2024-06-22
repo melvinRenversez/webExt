@@ -1,4 +1,4 @@
-    const serv = "127.0.0.1:9000";
+    const serv = "192.168.0.41:9000";
 
     function getUrl() {
         const currentUrl = window.location.href;
